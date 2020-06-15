@@ -2,6 +2,10 @@
 
 This repository contrains a short information about the extension of the PLONK proof system used in zkSync v1.0. A PDF file contrains an unrolled protocol and below we also give a short intuitive description for interested readers.
 
+## Warning for Github viewers
+
+Github's Markdown renderer does not support inline formulas used in this document, so you can open this file in your favorite Markdown viewer for better experience or open a PDF for the same short descriptions as the one made below.
+
 ## Extensions
 
 Compared to the original PLONK [paper](https://eprint.iacr.org/2019/953.pdf) we use two extensions:
